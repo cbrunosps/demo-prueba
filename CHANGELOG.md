@@ -1,6 +1,6 @@
 # Proceso
 ### Funcionalidades nuevas
-- Se implementa cambio para lanzar pre-realease
+- Se implementa cambio para lanzar pre-realease v.2
 
 ### Solución a problemas
 - 
