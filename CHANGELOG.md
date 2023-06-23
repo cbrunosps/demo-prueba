@@ -1,6 +1,6 @@
 # Proceso
 ### Funcionalidades nuevas
-- Se realiza cambio para la implementación para lanzar a preproducción
+- Se implementa cambio para lanzar pre-realease
 
 ### Solución a problemas
 - 
